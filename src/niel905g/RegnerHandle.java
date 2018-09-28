@@ -19,4 +19,7 @@ public class RegnerHandle {
     public void setObject(Regner object) {
         this.object = object;
     }
+
+    public void setObjekt(Regner k5) {
+    }
 }

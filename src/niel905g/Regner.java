@@ -11,6 +11,7 @@ public class Regner {
     }
 
     double f(double x) {
+
         return k * x * x + 3;
     }
 }
